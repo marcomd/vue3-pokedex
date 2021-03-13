@@ -1,5 +1,12 @@
 # vue3-pokedex
 
+## Il progetto
+
+### 01-start
+
+Abbiamo creato la struttura del nostro pokedex con la pagina home e la pagina about.
+Abbiamo aggiunto il font e lo stile 8bit
+
 ## Project setup
 ```
 npm install
@@ -14,11 +21,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
