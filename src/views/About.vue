@@ -2,8 +2,8 @@
   <div class="about">
     <h1>Ciao, </h1>
     <h3>
-      io sono Ambrogino,<br>
-      questo è il mio progetto sui pokemon
+      ti piace il mio esperimento sui pokemon?<br>
+      <a href="https://github.com/marcomd/vue3-pokedex">Scaricalo</a> e modificalo a tuo piacimento.
     </h3>
   </div>
 </template>

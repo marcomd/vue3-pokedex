@@ -1,7 +1,6 @@
 <template>
   <div class="welcome">
-    <h1>Pokedex</h1>
-    <h2>Benvenuto nel pokedex di Ambrogino!</h2>    
+    <h1>Pokedex</h1> 
   </div>
 </template>
 

@@ -9,13 +9,16 @@
 </template>
 
 <style>
+  html {
+    background-color: black;
+  }
+
   #app {
     font-family: 'Press Start 2P', Avenir, Helvetica, Arial, sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     text-align: center;
     color: white;
-    background-color: black;
   }
 
   #nav {
@@ -24,11 +27,11 @@
 
   #nav a {
     font-weight: bold;
-    color: #2c3e50;
+    color: #aaa66d;
   }
 
   #nav a.router-link-exact-active {
-    color: #42b983;
+    color: #ffe555;
   }
 
   #container {
@@ -36,5 +39,12 @@
     background-position: center top;
     width: 100%;
     height: 100vh;
+  }
+
+  h1 {
+    color: goldenrod;
+  }
+  h2, h3 {
+    color: gold;
   }
 </style>
